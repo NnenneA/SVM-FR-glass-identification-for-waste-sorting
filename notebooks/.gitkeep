@@ -1,1 +1,15 @@
+# Glass Classification Analysis R Script
 
+This is the main R script that performs the complete analysis for the project.
+
+## What it does:
+1.  **Data Preparation:** Loads the UCI Glass dataset, handles missing values, and applies feature scaling (Z-Score, Min-Max, SoftMax).
+2.  **Exploratory Data Analysis (EDA):** Generates correlation matrices and box plots to visualize feature distributions.
+3.  **Model Training:** Implements and tunes a Support Vector Machine (SVM) and a Random Forest classifier using `caret`.
+4.  **Model Evaluation:** Produces confusion matrices, calculates precision, recall, F1-score, and performs a comparative analysis.
+
+## Requirements:
+-   Requires the `caret`, `randomForest`, `ggplot2`, and `corrplot` R packages.
+-   Assumes the data file (`glass.data`) is in a `../data/` directory.
+
+Run this script to reproduce the entire analysis from raw data to final results.

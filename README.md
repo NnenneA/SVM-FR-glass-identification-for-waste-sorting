@@ -27,4 +27,4 @@ The project uses the [UCI Glass Identification Dataset](https://archive.ics.uci.
 - The **tuned Random Forest model** achieved **76.9% accuracy** and provided valuable feature importance insights, identifying Al, Mg, and RI as the most discriminative features.
 - A detailed comparison of the trade-offs between the two models (accuracy vs. interpretability, speed vs. robustness) is provided.
 
-**Disclaimer:** This project was developed as part of my coursework for [Advanced Decision Making: Predictive Analytics and Machine Learning] at [University of East London]. The code and report are my own work, submitted for assessment on [ May 9, 2025].
+**Disclaimer:** This project was developed as part of my coursework for [Advanced Decision Making: Predictive Analytics and Machine Learning] at [University of East London]. The code and report are my own work, submitted for assessment on [ May 9, 2025]
